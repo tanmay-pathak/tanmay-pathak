@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanmay Pathak</h1>
 <h3 align="center">A Computer Science Student at University of Saskatchwan.</h3>
 
-- 🔭 I recently worked on a [Drawing Application](https://github.com/tanmay-pathak/Drawing-Application)
+- 🔭 I recently worked on a [Drawing Application](https://github.com/tanmay-pathak/Drawing-Application) and a [Ship Application](https://github.com/tanmay-pathak/Ship-Application)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Next.JS**
 
-- 📫 How to reach me **tanmay.pathak@usask.ca**
+- 📫 Reach me at **tanmay.pathak@usask.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
