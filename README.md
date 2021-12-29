@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tanmay Pathak</h1>
-<h3 align="center">A Computer Science Student at University of Saskatchwan.</h3>
+<h3 align="center">A Computer Science Student at the University of Saskatchwan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-pathak&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-pathak" /> </p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/tanmay-pathak/tanmay-pathak/master/assets/Night-Coding.gif" align="right"/>
