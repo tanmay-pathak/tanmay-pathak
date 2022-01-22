@@ -27,7 +27,7 @@
 
 ### My Recent Projects
 
-[![Drawing Application](https://github-readme-stats.vercel.app/api/pin/?username=tanmay-pathak&repo=Drawing-Application)](https://github.com/tanmay-pathak/Drawing-Application) [![OneLink](https://github-readme-stats.vercel.app/api/pin/?username=tanmay-pathak&repo=OneLink)](https://github.com/tanmay-pathak/MLFQ-Scheduler-XV6)[![Ship Application](https://github-readme-stats.vercel.app/api/pin/?username=tanmay-pathak&repo=Ship-Application)](https://github.com/tanmay-pathak/Ship-Application) [![MLFQ](https://github-readme-stats.vercel.app/api/pin/?username=tanmay-pathak&repo=MLFQ-Scheduler-XV6)](https://github.com/tanmay-pathak/MLFQ-Scheduler-XV6)
+[![Drawing Application](https://github-readme-stats.vercel.app/api/pin/?username=tanmay-pathak&repo=Drawing-Application)](https://github.com/tanmay-pathak/Drawing-Application) [![OneLink](https://github-readme-stats.vercel.app/api/pin/?username=tanmay-pathak&repo=OneLink)](https://github.com/tanmay-pathak/OneLink)[![Ship Application](https://github-readme-stats.vercel.app/api/pin/?username=tanmay-pathak&repo=Ship-Application)](https://github.com/tanmay-pathak/Ship-Application) [![MLFQ](https://github-readme-stats.vercel.app/api/pin/?username=tanmay-pathak&repo=MLFQ-Scheduler-XV6)](https://github.com/tanmay-pathak/MLFQ-Scheduler-XV6)
 
 <hr>
 
