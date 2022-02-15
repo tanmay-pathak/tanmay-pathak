@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Warzone Stats Tracker Website**
 
-- 👨‍💻 Check out my portfolio at [tanmaypathak.com](tanmaypathak.com)
+- 👨‍💻 Check out my portfolio at [tanmaypathak.com](https://www.tanmaypathak.com)
 
 - 💬 Ask me about **Next.JS**
 
