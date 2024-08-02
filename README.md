@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building [lifememoirs.ai](https://lifememoirs.ai) that lets you create your memoir using AI<br>🌱 Checkout my [portfolio](portfolio.tanmaypathak.com)<br>✉️ Reach out to me via [tanmaypathak.com](https://tanmaypathak.com)
+🔭 I’m currently building [lifememoirs.ai](https://lifememoirs.ai) that lets you create your memoir using AI<br>🌱 Checkout my [portfolio](https://portfolio.tanmaypathak.com)<br>✉️ Reach out to me via [tanmaypathak.com](https://tanmaypathak.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanmay-pathak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
